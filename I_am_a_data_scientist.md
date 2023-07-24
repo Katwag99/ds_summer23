@@ -8,6 +8,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 
 - [Vitthal Shukla](https://github.com/VitthalGit): _Exploring Well Being in the UK between 2011 and 2014_
 
+-[Katharina Wagner](https://github.com/Katwag99): _Measuring human capital_
 
 - [Aynur Didem Evin](https://github.com/didemevin): _Lie Prevalence, Lie Characteristics and Strategies of Self-reported Good Liars_
 - [Natalie Halezki](https://github.com/HalNatalie): _Achieving Universal Health Insurance Coverage in the United States: Addressing Market Failures or Providing Social Floor?_
